@@ -3,7 +3,6 @@ import React from 'react'
 function Nosotros() {
     return (
         <section className="Seccion3">
-// -- SECCION 3 Nosotros --
             <article className="DeDondeSomos">
                 <h2>De donde somos?</h2>
                 <p>Nos encontramos en el centro de la ciudad,

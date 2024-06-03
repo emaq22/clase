@@ -15,7 +15,7 @@ function Contacto() {
         </div>
         <form action="#" autoComplete="off">
           <input type="text" name="Nombre" placeholder="Ingresa tu Nombre" className="campo" />
-          <input type="email" name="email" placeholder="Ingresa tu correo de gmail" className="campo" />
+          <input type="email" name="email" placeholder="Ingresa tu email" className="campo" />
           <textarea name="mensaje" placeholder="Ingresa tu mensaje"></textarea>
           <input type="submit" name="enviar" value="Enviar mensaje" className="btn-enviar" />
         </form>

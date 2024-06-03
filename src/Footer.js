@@ -4,7 +4,7 @@ function Footer() {
     return (
         <footer>
             <div className="footer-content">
-                <p>&copy; IDW 2024. Todos los derechos reservados.</p>
+                <p>&copy; Alojamientos Concordia 2024.</p>
                 <div className="social-media">
                     <a href="https://www.facebook.com/">
                         <img src={process.env.PUBLIC_URL + '/img/fb.png'} alt="Facebook" />

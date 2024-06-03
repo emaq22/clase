@@ -653,6 +653,7 @@ footer {
   text-decoration: none;
   width: 100px;
   margin-bottom: 15px;
+  margin-right: 30px;
   color: #000000;
   font-weight: 700;
 }
@@ -667,11 +668,12 @@ textarea {
   width: 100%;
   padding: 15px 10px;
   font-size: 15px;
-  border: 1px solid color brown;
+  font-family: monospace;
+  border: 1px solid currentColor;
   margin-bottom: 20px;
-  border-radius: 3px;
+  border-radius: 5px;
   outline: 0px;
-  color: #ac3b07;
+  color: #a96829;
 }
 
 .form textarea {
