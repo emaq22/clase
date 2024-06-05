@@ -1,4 +1,5 @@
 import React from 'react'
+import './Nosotros.css';
 
 function Nosotros() {
     return (
